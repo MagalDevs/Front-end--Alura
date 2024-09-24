@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o seu repositório de estudos de front-end:
-
----
-
 # Repositório de Estudos - Formação Front-end (Alura)
 
 Bem-vindo ao meu repositório de estudos de front-end!  
