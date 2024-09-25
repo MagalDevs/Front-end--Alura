@@ -55,7 +55,7 @@ body {
     gap: 32px;
 }
 
-.apresentacao__links_subtitulo{
+.apresentacao__links__subtitulo{
     font-family: "Krona One", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -70,6 +70,6 @@ body {
     padding: 1.344rem 0;
     text-decoration: none;
     font-weight: 600;
-    color: #22D4FD;
+    color: #ffffff;
     font-family: "Montserrat", sans-serif;
 }
