@@ -1,7 +1,7 @@
 # Repositório de Estudos - Formação Front-end (Alura)
 
 Bem-vindo ao meu repositório de estudos de front-end!  
-Meu nome é **Daniel Galvão Magalhães da Silva**, e sou estudante de programação. Este repositório contém os projetos e exercícios que estou desenvolvendo como parte da formação "A partir do zero: HTML e CSS para projetos web" oferecida pela Alura.
+Meu nome é **Daniel Galvão Magalhães da Silva**, e sou estudante de programação. Este repositório contém os projetos e exercícios que estou desenvolvendo para estudos de desenvolvimento web oferecida pela Alura.
 
 ## Formação Front-end: HTML e CSS para Projetos Web
 
