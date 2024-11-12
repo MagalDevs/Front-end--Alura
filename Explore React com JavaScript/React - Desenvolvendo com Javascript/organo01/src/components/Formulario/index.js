@@ -5,7 +5,7 @@ import ListaSuspensa from "../ListaSuspensa";
 import "./Formulario.css";
 
 
-const Formulario = () => {
+const Formulario = (props) => {
 
   const times = [
     'Programação',
@@ -24,7 +24,12 @@ const Formulario = () => {
 
   const aoSalvar = (event) =>{
     event.preventDefault()
-    console.log('Form foi submetido', nome, cargo, imagem);
+    props.aoNovoColaboradorCadastrado(
+      nome, 
+      cargo,
+      imagem,
+      time
+    )
     
   }
   
@@ -57,7 +62,7 @@ const Formulario = () => {
         label="Time"
         itens={times}
         valor={time}
-        aoAlterado={valor => setTime(valor)}
+        aoAlterar={valor => setTime(valor)}
         />
         <Botao>Criar card</Botao>
       </form>
